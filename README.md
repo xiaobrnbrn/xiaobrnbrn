@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on LiDAR-Centric Localization System 
 - 🤖 I’m looking to collaborate on robotic navigation and localization 
 - 😄 Interested topics: **Autonomous Driving | Road Model Assisted Localization | SLAM | Information Fusion**
-- 📫 How to reach me: <lucky_shubin@163.com> 
+- 📫 How to reach me: <lucky_shubin@163.com> <sishubin@hrbeu.edu.cn>
 
 
 
